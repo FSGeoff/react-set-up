@@ -1,5 +1,5 @@
 import React from 'react';
-import "./_Page5.scss";
+import "./Page5.scss";
 
 const Page5 = () => {
     return (
