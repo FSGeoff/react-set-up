@@ -3,8 +3,8 @@ import "./_Page3.scss";
 
 const Page3 = () => {
     return (
-        <div class="container"> 
-            <h1 class="header">Page 3</h1>
+        <div className="container">
+            <h1 className="header">Page 3</h1>
         </div>
     );
 };

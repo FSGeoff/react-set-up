@@ -11,7 +11,7 @@ import Home from "./Components/Home/Home";
 function App() {
   return (
     <>
-      <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" height="100vh"alt="react" style={{display:"block"}}/>
+      <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" height="100vh" alt="react" style={{display:"block", marginLeft:"auto", marginRight: "auto", width:"10%"}}/>
       <div className="App">
         <Router>
           <Navbar />
